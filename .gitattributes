@@ -1,3 +1,4 @@
 *.js linguist-language=Cocos2d
+*.ts linguist-language=Cocos2d
 *.css linguist-language=Cocos2d
 *.html linguist-language=Cocos2d
